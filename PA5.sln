@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA5", "PA5\PA5.csproj", "{A7A73AE0-6988-4702-AE6B-E1C8EFE47FB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PA5Tests", "PA5Tests\PA5Tests.csproj", "{1C156E60-8A5D-4656-B6A6-869038E24A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A73AE0-6988-4702-AE6B-E1C8EFE47FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A73AE0-6988-4702-AE6B-E1C8EFE47FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A73AE0-6988-4702-AE6B-E1C8EFE47FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A73AE0-6988-4702-AE6B-E1C8EFE47FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C156E60-8A5D-4656-B6A6-869038E24A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C156E60-8A5D-4656-B6A6-869038E24A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C156E60-8A5D-4656-B6A6-869038E24A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C156E60-8A5D-4656-B6A6-869038E24A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D42BBF1-5A71-4540-B77D-E1F288594550}
+	EndGlobalSection
+EndGlobal

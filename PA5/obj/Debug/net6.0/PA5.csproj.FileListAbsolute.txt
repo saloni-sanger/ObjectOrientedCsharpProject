@@ -1,0 +1,15 @@
+/Users/salonisanger/Projects/PA5/PA5/bin/Debug/net6.0/PA5
+/Users/salonisanger/Projects/PA5/PA5/bin/Debug/net6.0/PA5.deps.json
+/Users/salonisanger/Projects/PA5/PA5/bin/Debug/net6.0/PA5.runtimeconfig.json
+/Users/salonisanger/Projects/PA5/PA5/bin/Debug/net6.0/PA5.dll
+/Users/salonisanger/Projects/PA5/PA5/bin/Debug/net6.0/PA5.pdb
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.csproj.AssemblyReference.cache
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.AssemblyInfoInputs.cache
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.AssemblyInfo.cs
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.csproj.CoreCompileInputs.cache
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.dll
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/refint/PA5.dll
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.pdb
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/PA5.genruntimeconfig.cache
+/Users/salonisanger/Projects/PA5/PA5/obj/Debug/net6.0/ref/PA5.dll
